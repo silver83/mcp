@@ -92,6 +92,16 @@ The AWS Lambda MCP Server enables AI assistants to select and run AWS Lambda fun
 
 [Learn more about the AWS Lambda MCP Server](servers/lambda-mcp-server.md)
 
+### Aurora DSQL MCP Server
+
+An AWS Labs Model Context Protocol (MCP) server for Aurora DSQL
+
+**Features:**
+
+- Execute queries against your DSQL Cluster
+
+Instructions: TODO
+[Learn more about the aurora-dsql MCP Server](servers/aurora-dsql-mcp-server.md)
 
 ### AWS Diagram MCP Server
 
